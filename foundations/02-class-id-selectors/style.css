@@ -1,0 +1,15 @@
+p {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sams", sans-serif;
+}
+
+.number2 {
+    color: blue;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+#number3 {
+    font-size: xx-large;
+    font-weight: 900;
+}
